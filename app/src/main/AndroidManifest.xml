@@ -14,7 +14,7 @@
         android:theme="@style/Theme.MidtermApp"
         tools:targetApi="31">
         <activity
-            android:name=".ActivityTracker"
+            android:name=".ActivityTracker.ActivityTracker"
             android:exported="false" />
         <activity
             android:name=".TreadmillCalc"
